@@ -1,2 +1,4 @@
 # Hello-World
-Thiis is me learning, ignore.
+This is me learning, ignore.
+
+I'm cool, but not that cool.
